@@ -32,7 +32,7 @@ public class Unidad4_IO extends JFrame implements ActionListener {
 
         txtLambda = new JTextField();
         txtLambda.setBounds(100, 20, 100, 25);
-        panel.add(txtLambda);
+        panel.add(txtLambda); 
 
         labelNiu = new JLabel("NIU μ:");
         labelNiu.setBounds(20, 50, 80, 25);
